@@ -1,0 +1,55 @@
+body{
+    background-color:floralwhite
+}
+.artcont{
+    display: flex;
+    justify-content: space-between;
+}
+.seccontainer{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: #fff;
+    background-color: rgb(51, 85, 124);
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+    width: 350px;
+    align-items: center;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+
+}
+.art1{
+    display: flex;
+    align-content: space-between;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+h2{
+    justify-content: center;
+}
+.art2{
+    padding-top: 100px;
+    padding-right: 250px;
+}
+p{
+    font-size: large;
+}
+.face{
+    color: ghostwhite;
+    background-color:royalblue;
+    border-radius: 10px;
+}
+.you{
+    color: black;
+    background-color: crimson;
+    border-radius: 10px;
+}

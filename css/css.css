@@ -1,0 +1,82 @@
+/* main rules  */
+
+body {
+    background: #DDD;
+}
+
+.container {
+    width: 940px;
+    margin: 20px auto;
+    background: #FFF;
+}
+
+
+/* end main rules  */
+
+
+/* start header  */
+
+header {
+    height: 100px;
+    background: #AAA;
+}
+
+header.logo {
+    height: 100px;
+    background: hsl(253, 78%, 49%);
+    width: 20%;
+    
+}
+
+header nav {
+    height: 100px;
+    background: #888;
+    width: 80%;
+
+}
+
+li {
+    cursor: pointer;
+}
+
+/* end header  */
+
+
+/* start content  */
+
+.content {
+    height: 500px;
+    background: #BBB;
+}
+
+.content .sidebar {
+    float: right;
+    width: 20%;
+    margin-left: 1%;
+    background: #f6f6f6;
+    height: 500px;
+}
+
+.content .products {
+    float: left;
+    width: 79%;
+    background: #f1f1f1;
+    height: 500px;
+}
+
+
+/* end content  */
+
+
+/* start footer  */
+
+.footer {
+    height: 100px;
+    background: #CCC;
+}
+
+
+/* end footer  */
+.h1 {
+    color: rgb(17, 186, 192);
+}
